@@ -1,0 +1,4 @@
+module CMyMath {
+    header "mymath.h"
+    export *
+}
